@@ -9,5 +9,4 @@ public class Addition {
 		c=a+b;
 		System.out.println("Addition of "+a+" and "+b+" is "+c);
 	}
-
 }
